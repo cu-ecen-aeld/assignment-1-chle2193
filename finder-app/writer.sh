@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 [[ $# -ne 2 ]] && echo "2 parameters pls" && exit 1
 
